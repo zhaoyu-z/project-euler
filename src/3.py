@@ -15,10 +15,7 @@ def largest_prime_factor(n):
                 n = n // factor
             max_factor = math.sqrt(n)
         factor += 2
-
-    if n == 1:
-        return last_factor
-    else:
-        return n
+        
+    return last_factor if n == 1 else n
 
 print(largest_prime_factor(600851475143))
