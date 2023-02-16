@@ -18,8 +18,8 @@ Add [me](https://projecteuler.net/progress=zhayu517) on Project Euler!
 
 # Answers
 
-| Question | Source | Answer |
+| Question | Solution | Answer |
 | - | - | - |
-| 1 | [code](src/1.py) | 233168 |
-| 2 | [code](src/2.py) | 4613732 |
+| [1](https://projecteuler.net/problem=1) | [code](src/1.py) | 233168 |
+| [2](https://projecteuler.net/problem=2) | [code](src/2.py) | 4613732 |
 | [3](https://projecteuler.net/problem=3) | [code](src/3.py) | 6857 |
