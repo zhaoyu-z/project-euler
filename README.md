@@ -10,7 +10,7 @@ You can find my Project Euler solutions in Python.
 
 I will ensure the answers are correct. However, the solution itself might not be optimal, so any improvement or discussion is more than welcome!
 
-My Project Euler username is [zhayu517](https://projecteuler.net/progress=zhayu517)
+Add [me](https://projecteuler.net/progress=zhayu517) on Project Euler!
 
 # Current Progress
 
@@ -22,3 +22,4 @@ My Project Euler username is [zhayu517](https://projecteuler.net/progress=zhayu5
 | - | - | - |
 | 1 | [code](src/1.py) | 233168 |
 | 2 | [code](src/2.py) | 4613732 |
+| [3](https://projecteuler.net/problem=3) | [code](src/3.py) | 6857 |
