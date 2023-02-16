@@ -14,7 +14,7 @@ Add [me](https://projecteuler.net/progress=zhayu517) on Project Euler!
 
 # Current Progress
 
-![](https://progress-bar.dev/2/?scale=829&title=solved&width=500&suffix=%20/%20829)
+![](https://progress-bar.dev/3/?scale=829&title=solved&width=500&suffix=%20/%20829)
 
 # Answers
 
