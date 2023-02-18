@@ -24,7 +24,7 @@ grid = "08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08 \
 grid = np.array([int(x) for x in grid.split(" ")]).reshape(20, 20)
 
 # print(grid)
-def largest_product_in_a_grid(largest_product_in_a_grid):
+def largest_product_in_a_grid(grid):
     m, n = len(grid), len(grid[0])
     largest_product_in_a_grid = 0
     for i in range(0, m):
@@ -32,16 +32,20 @@ def largest_product_in_a_grid(largest_product_in_a_grid):
             if i + 4 < m:
                 product = grid[i][j] * grid[i + 1][j] * grid[i + 2][j] * grid[i + 3][j]
                 largest_product_in_a_grid = max(product, largest_product_in_a_grid)
+
             if j + 4 < n:
                 product = grid[i][j] * grid[i][j + 1] * grid[i][j + 2] * grid[i][j + 3]
                 largest_product_in_a_grid = max(product, largest_product_in_a_grid)
+
             if j + 4 < n and i + 4 < m:
                 product = grid[i][j] * grid[i + 1][j + 1] * grid[i + 2][j + 2] * grid[i + 3][j + 3]
                 largest_product_in_a_grid = max(product, largest_product_in_a_grid)
+
             if i + 4 < m and j - 4 >= 0:
                 product = grid[i][j] * grid[i + 1][j - 1] * grid[i + 2][j - 2] * grid[i + 3][j - 3]
                 largest_product_in_a_grid = max(product, largest_product_in_a_grid)
+
     return largest_product_in_a_grid
 
-
 print(largest_product_in_a_grid(grid))
+
