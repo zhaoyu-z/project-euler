@@ -40,3 +40,4 @@ Add [me](https://projecteuler.net/progress=zhayu517) on Project Euler!
 | [18](https://projecteuler.net/problem=18) | [code](src/18.py) | 1074 |
 | [19](https://projecteuler.net/problem=19) | [code](src/19.py) | 172 |
 | [20](https://projecteuler.net/problem=20) | [code](src/20.py) | 648 |
+| [21](https://projecteuler.net/problem=21) | [code](src/21.py) | 31626 |
