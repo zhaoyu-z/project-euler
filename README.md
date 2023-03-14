@@ -14,7 +14,7 @@ Add [me](https://projecteuler.net/progress=zhayu517) on Project Euler!
 
 # Current Progress
 
-![](https://progress-bar.dev/45/?scale=829&title=solved&width=500&suffix=%20/%20829)
+![](https://progress-bar.dev/46/?scale=829&title=solved&width=500&suffix=%20/%20829)
 
 # Answers
 
@@ -65,3 +65,4 @@ Add [me](https://projecteuler.net/progress=zhayu517) on Project Euler!
 | [43](https://projecteuler.net/problem=43) | [code](src/43.py) | 16695334890 |
 | [44](https://projecteuler.net/problem=44) | [code](src/44.py) | 5482660 |
 | [45](https://projecteuler.net/problem=45) | [code](src/45.py) | 1533776805 |
+| [46](https://projecteuler.net/problem=46) | [code](src/46.py) | 5777 |
