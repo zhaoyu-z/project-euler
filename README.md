@@ -26,7 +26,7 @@ Or you can reach me through my Github [Readme](https://github.com/Zhayu517)
 
 # Current Progress
 
-![](https://progress-bar.dev/57/?scale=829&title=solved&width=500&suffix=%20/%20829)
+![](https://progress-bar.dev/58/?scale=829&title=solved&width=500&suffix=%20/%20829)
 
 # Answers
 
@@ -89,3 +89,4 @@ Or you can reach me through my Github [Readme](https://github.com/Zhayu517)
 | [55](https://projecteuler.net/problem=55) | [code](src/55.py) | 249 |
 | [56](https://projecteuler.net/problem=56) | [code](src/56.py) | 972 |
 | [57](https://projecteuler.net/problem=57) | [code](src/57.py) | 153 |
+| [58](https://projecteuler.net/problem=58) | [code](src/58.py) | 26241 |
